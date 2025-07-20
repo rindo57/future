@@ -1,0 +1,27 @@
+import os
+
+# Bot credentials
+API_ID = "10247139"
+API_HASH = "96b46175824223a33737657ab943fd6a"
+BOT_TOKEN = "8090184780:AAGUEdPYHK00usmhf-46GW0t5mPO2pztsaM"
+
+# Channel settings
+CHANNEL_ID = -1001159872623
+CHANNEL_USERNAME = "latest_ongoing_airing_anime"
+
+# Comment channels
+ANI_COMMENT_CHANNEL = -1002623827997
+EP_COMMENT_CHANNEL = -1002394594925
+
+# Other APIs
+IMGBB_API = "27b5cf338b8a223e5cafb3f9505808c4"
+WORKER_URL = "https://black-block-05ae.yunoasta830.workers.dev/"
+
+# Admin IDs
+ADMIN_IDS = [1425489930, 1443454117]
+
+# Constants
+EPISODES_PER_PAGE = 30
+MAX_RETRIES = 3
+DELAY_BETWEEN_REQUESTS = 1.0
+REQUEST_TIMEOUT = 15
